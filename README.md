@@ -40,3 +40,8 @@ https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot
 # Azure Site Recovery: frequently asked questions (FAQ)
 
 https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq
+
+
+# About recovery plans
+
+https://docs.microsoft.com/en-us/azure/site-recovery/recovery-plan-overview
