@@ -36,3 +36,7 @@ https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture
 # Troubleshoot Azure-to-Azure VM replication issues
 
 https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-errors
+
+# Azure Site Recovery: frequently asked questions (FAQ)
+
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq
