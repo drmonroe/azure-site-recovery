@@ -29,3 +29,10 @@ https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-quickstart
 
 https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication
 
+# Azure to Azure disaster recovery architecture
+
+https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-architecture
+
+# Troubleshoot Azure-to-Azure VM replication issues
+
+https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-troubleshoot-errors
