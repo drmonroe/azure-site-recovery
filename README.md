@@ -45,3 +45,7 @@ https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-faq
 # About recovery plans
 
 https://docs.microsoft.com/en-us/azure/site-recovery/recovery-plan-overview
+
+# Fail over VMs and physical servers
+
+https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-failover
